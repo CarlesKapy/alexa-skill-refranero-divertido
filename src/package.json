@@ -1,0 +1,20 @@
+{
+  "name": "alexa-skill-refranero-divertido",
+  "version": "1.0.0",
+  "description": "Refranero divertido, una skill para Alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "refran"
+  ],
+  "author": "Carles Capell <carles.capell.87@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ask-sdk": "^2.0.0"
+  }
+}
+
